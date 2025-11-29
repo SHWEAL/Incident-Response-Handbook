@@ -133,9 +133,3 @@ Incident response
 Mapping attacker behavior
 
 It provides hands-on experience for students and professionals learning about phishing, ransomware behavior, digital forensics, and incident response.
-
-If you want, I can also generate:
-✅ A shorter README
-✅ An Arabic version
-✅ A more professional/enterprise README
-✅ A GitHub-stylish README with badges and images
